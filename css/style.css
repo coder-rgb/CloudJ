@@ -500,6 +500,10 @@ a {
   width: 100%;
 }
 
+.rc--image .icon {
+  width: 50%;
+}
+
 .rc--image > .icon--container {
   position: absolute;
   top: 2rem;
