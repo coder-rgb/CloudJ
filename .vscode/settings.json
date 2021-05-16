@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "Website"
+    "liveServer.settings.multiRootWorkspaceName": "Website",
+    "git.ignoreLimitWarning": true
 }
