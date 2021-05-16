@@ -1,3 +1,5 @@
+@import url(normalize.css);
+
 :root {
   --color-primary: #2584ff;
   --color-secondary: #00d9ff;
@@ -632,12 +634,12 @@ a {
 }
 
 .block--shwed--left {
-  padding-bottom: calc(--padding-verticle + 5rem);
+  padding-bottom: calc(6rem + 5rem);
   clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
 }
 
 .block--shwed--right {
-  padding-bottom: calc(--padding-verticle + 5rem);
+  padding-bottom: calc(6rem + 5rem);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 95%);
 }
 
