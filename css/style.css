@@ -748,8 +748,8 @@ a {
 
 .block--domain--price {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
   justify-items: center;
   font-size: 2rem;
   font-weight: 600;
