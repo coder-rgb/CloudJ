@@ -387,7 +387,7 @@ a {
 }
 
 .plan--popular .card--header::before {
-  content: url("../Icons/popular.svg");
+  content: url("../icons/popular.svg");
   width: 40px;
   display: inline-block;
   position: absolute;
